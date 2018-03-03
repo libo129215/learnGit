@@ -1,4 +1,3 @@
 public class Hello {
   System.out.println("master hello github");
-  System.out.println("dev half");  
 }
