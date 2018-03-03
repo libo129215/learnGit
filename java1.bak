@@ -1,8 +1,0 @@
-public class Hello {
-<<<<<<< HEAD
-  System.out.println("master hello git");
-=======
-  System.out.println("master hello github");
-  System.out.println("dev half");
->>>>>>> dev
-}
